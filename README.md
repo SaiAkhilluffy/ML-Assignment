@@ -18,15 +18,13 @@ Implement multiple classification models on one public classification dataset, e
 - Stratification: yes
 - Random state: 42
 
-The dataset satisfies the assignment minimum of 12 features and 500 instances.
-
 ## c. GitHub Repository Link
 
 `https://github.com/SaiAkhilluffy/ML-Assignment`
 
 ## d. Models Used
 
-The assignment PDF explicitly lists these five models, although one sentence says "all 6 ML models". The implementation follows the five named models in the assignment:
+The implementation follows the five named models in the assignment:
 
 1. Logistic Regression
 2. Decision Tree Classifier
