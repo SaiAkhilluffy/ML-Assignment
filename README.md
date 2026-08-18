@@ -22,8 +22,6 @@ The dataset satisfies the assignment minimum of 12 features and 500 instances.
 
 ## c. GitHub Repository Link
 
-**Replace this placeholder after creating the repository:**
-
 `https://github.com/SaiAkhilluffy/ML-Assignment`
 
 ## d. Models Used
