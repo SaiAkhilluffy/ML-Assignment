@@ -114,6 +114,3 @@ Then upload `test_data.csv`.
 - Random Forest uses 200 trees
 - Logistic Regression and kNN use StandardScaler
 
-## Academic Integrity Note
-
-The implementation should be customized and understood before submission. Do not submit generated content without verifying the results, repository history, screenshots and deployment links.
