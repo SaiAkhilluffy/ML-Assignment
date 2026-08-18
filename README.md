@@ -24,7 +24,7 @@ The dataset satisfies the assignment minimum of 12 features and 500 instances.
 
 **Replace this placeholder after creating the repository:**
 
-`https://github.com/<YOUR_USERNAME>/ml-assignment-2`
+`https://github.com/SaiAkhilluffy/ML-Assignment`
 
 ## d. Models Used
 
@@ -73,9 +73,7 @@ The application provides:
 
 ### Streamlit Link
 
-**Replace this placeholder after deployment:**
-
-`https://<YOUR-STREAMLIT-APP>.streamlit.app`
+`https://ml-assignment-2025ac05190.streamlit.app/`
 
 ## Repository Structure
 
